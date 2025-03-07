@@ -1,0 +1,16 @@
+{
+  "name": "chkparenthesis",
+  "version": "1.0.0",
+  "description": "this package checking a parenthesises grammar is true",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "wasans"
+  },
+  "keywords": [
+    "check",
+    "parenthesises",
+    "wasans"
+  ],
+  "author": "knenknenknen",
+  "license": "ISC"
+}
